@@ -21,6 +21,7 @@ You can view the live demo of the app [here](https://mytodoslist2407.netlify.app
 
 - React
 - JavaScript
+- Bootstrap
 - CSS
 
 ## Contributing
